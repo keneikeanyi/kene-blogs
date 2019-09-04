@@ -34,7 +34,7 @@ function Bio() {
               Written by <strong>{author}</strong> who lives in Lagos learning everyday.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                Follow me on Twitter
               </a>
             </p>
           </div>
